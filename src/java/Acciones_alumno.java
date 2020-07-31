@@ -104,7 +104,7 @@ public class Acciones_alumno {
                     + " pass_alu = ?,"
                     + " email_alu = ?,"
                     + " pais_alu = ?"
-                    + "where id_alu = ? ";
+                    + " where id_alu = ?";
             //preparar la sentencia
             PreparedStatement ps = con.prepareStatement(q);
             
