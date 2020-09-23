@@ -20,6 +20,7 @@ public class Alumno {
     
     */
     
+    private string Matrix;
     private int id;
     private String nombre, password, email, pais;
     
