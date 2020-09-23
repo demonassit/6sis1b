@@ -15,10 +15,15 @@ public class Alumno {
     a la cual le aplicaremos los principios de poo, implementando
     encapsulamiento, para el acceso a los datos de la tabla 
     a traves de los metodos get y set correspondientes
+    
+    se me olvido agregar una cosita mas que es una variable linda
+    
     */
     
     private int id;
     private String nombre, password, email, pais;
+    
+    private int hola;
     
     //ahora creamos los getter y setter
 
